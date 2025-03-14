@@ -6,10 +6,15 @@ Welcome to the code repository for the manuscript "Meta-ESN: A Novel Echo State 
 Repository Structure
 
 features_reptile.py: Performs reservoir mapping to generate echo state features.
+
 main_pretrain_reptile.py: Pretrains the Meta-ESN model.
+
 main_test_reptile.py: Tests the pretrained model on your dataset.
+
 main_baseline.py: Implements baseline methods for performance comparison.
+
 Prerequisites
+
 Python [version, 3.8+]
 Dependencies: [NumPy, PyTorch]
 
